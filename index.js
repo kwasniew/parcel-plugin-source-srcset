@@ -1,3 +1,3 @@
 module.exports = function (bundler) {
-    bundler.addAssetType('html', require.resolve('./src/assets/HTMLAssetWithSrcset.js'));
+    bundler.addAssetType('html', require.resolve('./lib/HTMLAssetWithSrcset.js'));
 };
