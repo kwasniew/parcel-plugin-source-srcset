@@ -1,0 +1,23 @@
+{
+  "name": "parcel-plugin-source-srcset",
+  "version": "0.0.1",
+  "description": "Parcel plugin to support source@srcset",
+  "main": "./index.js",
+  "scripts": {
+    "build-example": "./node_modules/.bin/parcel build example/index.html --no-cache"
+  },
+  "keywords": [
+    "parcel",
+    "source",
+    "srcset"
+  ],
+  "author": "Mateusz Kwasniewski",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kwasniew/parcel-plugin-source-srcset.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "1.6.2"
+  }
+}
