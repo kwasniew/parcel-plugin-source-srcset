@@ -5,8 +5,6 @@ new parcel ships this functionality
 
 ## Install
 
-Make sure you have [installed parcel](https://parceljs.org/getting_started.html) before continuing.
-
 ```bash
-npm install parcel-plugin-html -D
+npm install parcel-plugin-source-srcset -D
 ```    
