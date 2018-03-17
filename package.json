@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-source-srcset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parcel plugin to support source@srcset",
   "main": "./index.js",
   "scripts": {
